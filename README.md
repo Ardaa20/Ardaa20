@@ -4,6 +4,8 @@
 
 <p data-importer="text" align="left">I'm Arda, a 4th-year Computer Engineering student at Yeditepe University.<br><br>I like building projects, figuring out how things work, and improving my skills by actually creating stuff.<br><br>Currently focusing on turning coffee into code and building more things to level up in tech.<br><br>Feel free to check out my school, work, and personal projects below. Currently, I have 4 public repositories, and I'm also working on a few private projects behind the scenes. <br><br>I've also had the chance to work on 2 real-world professional projects. I built a flight reservation system (which is actually one of my public repos below!) and developed a car service chatbot. You can check out the professional details over on my LinkedIn.</p>
 
+
+<br>
 ###
 
 <h3 data-importer="text" align="left">I code with</h3>
